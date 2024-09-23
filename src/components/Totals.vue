@@ -1,7 +1,7 @@
 <script setup>
 defineProps({
     totalCost: Number,
-    totalCalories: Number
+    totalCalories: Number,
 });
 </script>
 
